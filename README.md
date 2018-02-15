@@ -12,4 +12,4 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 * Materiais de referência:
  - [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
  - [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
- - [The Python Bible™](https://www.udemy.com/the-python-bible/)
+ - [The Python Bible](https://www.udemy.com/the-python-bible/)

@@ -7,6 +7,7 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 * 01 - Primeiros passos: variáveis, expressões aritméticas, strings, I/O 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/01.ipynb)
+[(https://img.shields.io/aur/license/:packageName.svg)]
 
 ---
 

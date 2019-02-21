@@ -36,7 +36,7 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 
 ---
 
-* 05 - Abrindo a caixa de ferramentas: tipos abstratos de dados (set, dict, list)
+* 05 - Abrindo a caixa de ferramentas: coleções (set, dict, list)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/05.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)

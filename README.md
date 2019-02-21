@@ -36,9 +36,17 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 
 ---
 
+* 05 - Abrindo a caixa de ferramentas: tipos abstratos de dados (set, dict, list)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/05.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
+---
+
 ### Disclaimer
 * Autor: Leonardo Bezerra
 * Materiais de referência:
- - [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
- - [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
- - [The Python Bible](https://www.udemy.com/the-python-bible/)
+ * [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
+ * [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
+ * [The Python Bible](https://www.udemy.com/the-python-bible/)

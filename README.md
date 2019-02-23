@@ -4,7 +4,7 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 
 ---
 
-* 01 - Primeiros passos: variáveis, expressões aritméticas, strings, I/O 
+* [01](01.ipynb) - Primeiros passos: variáveis, expressões aritméticas, strings, I/O 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/01.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)
@@ -12,7 +12,7 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 
 ---
 
-* 02 - Comparando e decidindo: operadores de comparação, operadores lógicos e estruturas de decisão (`if`-`elif`-`else`)
+* [02](02.ipynb) - Comparando e decidindo: operadores de comparação, operadores lógicos e estruturas de decisão (`if`-`elif`-`else`)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/02.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)
@@ -20,7 +20,7 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 
 ---
 
-* 03 - Repetindo sem perder o controle!: estruturas de repetição (`for`, `while`)
+* [03](03.ipynb) - Repetindo sem perder o controle!: estruturas de repetição (`for`, `while`)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/03.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)
@@ -28,7 +28,7 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 
 ---
 
-* 04 - Procedimentos: organizando e reaproveitando seu código 
+* [04](04.ipynb) - Procedimentos: organizando e reaproveitando seu código 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/04.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)
@@ -36,7 +36,7 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 
 ---
 
-* 05 - Abrindo a caixa de ferramentas: coleções (`set`, `dict`, `list`)
+* [05](05.ipynb) - Abrindo a caixa de ferramentas: coleções (`set`, `dict`, `list`)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/05.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)

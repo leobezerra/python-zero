@@ -4,8 +4,6 @@ Este repositório foi pensado para quem já teve um primeiro contato com pensame
 
 Também pode ser útil pra quem está iniciando em programação e já teve primeiros contatos com Python ou com outra linguagem de programação.
 
-> Este material é usado na 3a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
-
 ---
 
 * [01](01.ipynb) - Primeiros passos: variáveis, expressões aritméticas, strings, I/O 
@@ -49,6 +47,8 @@ Também pode ser útil pra quem está iniciando em programação e já teve prim
 ---
 
 ### Disclaimer
+> Este material é usado na 3a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
+
 * Autor: Leonardo Bezerra
 * Materiais de referência:
   * [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)

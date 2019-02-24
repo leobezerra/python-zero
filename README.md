@@ -1,6 +1,10 @@
-# Repositório de notebooks
+# Pensamento computacional com Python
 
-Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina Pensamento Computacional, organizados como segue:
+Este repositório foi pensado para quem já teve um primeiro contato com pensamento computacional (ou apenas com lógica de programação), mas ainda não tem experiência com linguagens de programação.
+
+Também pode ser útil pra quem está iniciando em programação e já teve primeiros contatos com Python ou com outra linguagem de programação.
+
+> Este material é usado na 3a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
 
 ---
 
@@ -47,6 +51,6 @@ Este repositório reúne os roteiros de estudo para a 3a unidade da disciplina P
 ### Disclaimer
 * Autor: Leonardo Bezerra
 * Materiais de referência:
- * [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
- * [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
- * [The Python Bible](https://www.udemy.com/the-python-bible/)
+  * [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
+  * [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
+  * [The Python Bible](https://www.udemy.com/the-python-bible/)

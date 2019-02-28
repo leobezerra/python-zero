@@ -4,6 +4,8 @@ Este repositório foi pensado para quem já teve um primeiro contato com pensame
 
 Também pode ser útil pra quem está iniciando em programação e já teve primeiros contatos com Python ou com outra linguagem de programação.
 
+> Se você está mais avançado do que isso, dê uma olhada neste [notebook](https://github.com/ivanovitchm/datascience_one_2019_1/blob/master/Lesson%2302/Lesson%2302%20Python%20crash%20course.ipynb) ou veja essas [referências](#disclaimer) 🙃
+
 ---
 
 * [01](01.ipynb) - Primeiros passos: variáveis, expressões aritméticas, strings, I/O 

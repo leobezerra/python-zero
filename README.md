@@ -18,8 +18,8 @@ Também pode ser útil pra quem está iniciando em programação e já teve prim
 
 * [02](02.ipynb) - Comparando e decidindo: operadores de comparação, operadores lógicos e estruturas de decisão (`if`-`elif`-`else`)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/02.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edusantos33/python-zero/blob/master/02.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edusantos33/python-zero/master)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ---

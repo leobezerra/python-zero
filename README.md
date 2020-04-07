@@ -30,6 +30,7 @@ Também pode ser útil pra quem está iniciando em programação e já teve prim
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-zero/blob/master/03.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-zero/master)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red.svg)](https://youtu.be/YQahSgGazsg)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ---
